@@ -1,0 +1,14 @@
+app:
+  name: UploadManager
+  version: 1.0.0
+
+angular:
+  project-path: \angular-ui\
+  compiled-path: \dist\angular-ui\browser
+
+ftp:
+  server:
+  port:
+  user:
+  password:
+  remote-path:
